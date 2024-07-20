@@ -6,7 +6,7 @@ body, html {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(270deg, #f5def5, #e0adf7);
+  background: linear-gradient(270deg, #f5ebde, #f7cbad);
   background-size: 400% 400%;
   animation: gradientBackground 15s ease infinite;
 }
